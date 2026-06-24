@@ -1,20 +1,20 @@
 ###### THE DIGITAL COMMONS • ISSUE XII
 
-# Reclaiming the Tools We Were Handed
+# Renegotiating our Relationships with Technology
 
-*On why the relationship between people and technology needs to be renegotiated*
+*Why we need to renegotiate our relationships with ourselves, our communities and the ways in which we use technology*
 
 ###### BY CHRISTOPHER STEEL • JUNE 24, 2026
 
 ---
 
-For a generation now, technology has been designed to capture attention rather than serve it. The tools we use daily were not built to extend our capabilities but to harvest them, optimising for engagement metrics that have nothing to do with the lives of the people on the other side of the screen.
+For a generation now, technology has been designed to capture and manipulate our attention rather than to serve us in our endeavours. The tools we use daily were not built to extend our capabilities but to harvest them, optimising for engagement metrics that have nothing to do with the lives of the people on the other side of the screen.
 
-> The most powerful technology is the kind that disappears into the work, leaving the person more capable than they were before they picked it up.
+> The most powerful technology is the kind that disappears into the work, leaving the individuals who employs it more capable and able to accomplish their goals.
 
 ## What Agency Actually Looks Like
 
-Reclaiming agency does not mean rejecting technology. It means insisting that the tools we use answer to us rather than to the interests of the platforms that provide them. It means choosing software that can be understood, modified, and owned, and resisting the gradual replacement of skill with dependency.
+Reclaiming agency does not mean rejecting technology. It means insisting that the tools we use answer to us rather than primarily to the interests of the platforms that provide them. It means choosing to build software that can be understood, modified, and owned, and resisting the gradual replacement of skill with dependency.
 
 ---
 
